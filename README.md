@@ -1,6 +1,7 @@
 # Project-management-system-MySQL
 
 Description
+<br>
 The program allows user to capture, update and finalize information about construction projects using databases.
 
 ### Options available to the user:
